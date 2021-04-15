@@ -1,0 +1,72 @@
+<hallDetails>
+  <hall>
+    <name>Hall Paradise</name>
+    <owner>Steve Jobs</owner>
+    <costPerDay>40,000</costPerDay>
+    <mobile>9876543210</mobile>
+    <address>Washington</address>
+  </hall>
+  <hall>
+    <name>Hall Magica</name>
+    <owner>Bill Gates</owner>
+    <costPerDay>50,000</costPerDay>
+    <mobile>9123458760</mobile>
+    <address>London</address>
+  </hall>
+  <hall>
+    <name>The Walt Disney Concert Hall</name>
+    <owner>Peter Parker</owner>
+    <costPerDay>60,000</costPerDay>
+    <mobile>8976543210</mobile>
+    <address>California</address>
+  </hall>
+  <hall>
+    <name>The Oslo Opera House</name>
+    <owner>Shakespeare</owner>
+    <costPerDay>45,000</costPerDay>
+    <mobile>7890654321</mobile>
+    <address>Norway</address>
+  </hall>
+  <hall>
+    <name>Rudolfinum</name>
+    <owner>Othello</owner>
+    <costPerDay>35,000</costPerDay>
+    <mobile>7986574032</mobile>
+    <address>Denmark</address>
+  </hall>
+  <hall>
+    <name>Casa da Musica</name>
+    <owner>Jason Smith</owner>
+    <costPerDay>25,000</costPerDay>
+    <mobile>8967452310</mobile>
+    <address>Portugal</address>
+  </hall>
+  <hall>
+    <name>Carnegie Hall</name>
+    <owner>Bratt</owner>
+    <costPerDay>30,000</costPerDay>
+    <mobile>7907056342</mobile>
+    <address>New York</address>
+  </hall>
+  <hall>
+    <name>Palacio de Bellas Artes</name>
+    <owner>James Harry</owner>
+    <costPerDay>32,000</costPerDay>
+    <mobile>9056567834</mobile>
+    <address>Mexico</address>
+  </hall>
+  <hall>
+    <name>Sydney Opera House</name>
+    <owner>Thomas Peterson</owner>
+    <costPerDay>45,000</costPerDay>
+    <mobile>7890786512</mobile>
+    <address>Sydney</address>
+  </hall>
+  <hall>
+    <name>Esplanade</name>
+    <owner>Bobby</owner>
+    <costPerDay>30,000</costPerDay>
+    <mobile>7589341240</mobile>
+    <address>Singapore</address>
+  </hall>
+</hallDetails>
